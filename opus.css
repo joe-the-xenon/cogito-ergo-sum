@@ -5,6 +5,11 @@ body{
     text-align: center;
 }
 
-h1 {
+h1{
+  size: 300px;
   color: rgb(10, 10, 10);
+}
+
+img{
+    size: 300px;
 }
